@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ConstraintLayoutDemos</string>
+    <string name="one_line_lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
 </resources>
