@@ -2,4 +2,10 @@
     <string name="app_name">ConstraintLayoutDemos</string>
     <string name="one_line_lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
     <string name="one_paragraph_lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet libero sit amet lectus sollicitudin posuere. Proin tempus ex mi, sed pharetra justo congue sit amet. Sed commodo sit amet nibh vel sagittis. Donec rutrum ultrices ligula, eu volutpat ligula fermentum at. Nulla eget odio venenatis, faucibus felis et, elementum felis. In a magna lacus. Maecenas dapibus augue eu lectus pulvinar ultricies. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam eget lectus ut purus egestas suscipit.</string>
+    <string-array name="snack_choices">
+        <item>Carrots</item>
+        <item>Celery</item>
+        <item>Chips</item>
+        <item>Stroopwafel</item>
+    </string-array>
 </resources>
