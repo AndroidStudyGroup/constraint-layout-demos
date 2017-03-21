@@ -14,5 +14,10 @@
 
         <include
             layout="@layout/level1_simple_image_text"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="16dp"/>
+        <include
+            layout="@layout/level1_multiple_images_text"/>
     </LinearLayout>
 </ScrollView>
